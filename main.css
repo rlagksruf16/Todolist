@@ -1,0 +1,17 @@
+h2 {
+    font-size: 45px;
+    text-align: center;
+    border-bottom:1px solid gray;
+    padding: 20px;
+}
+body {
+    text-align: center;
+
+}
+ul {
+    list-style-type : none;
+    margin: 50px;
+}
+li {
+    margin: 25px;
+}
